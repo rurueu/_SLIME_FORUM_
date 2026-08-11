@@ -1,4 +1,4 @@
-![Screenshot] (./img.png)
+![Screenshot] (.img.png)
 # SLIME FORUM
 🟢 SLIME FORUM
 
