@@ -1,0 +1,3 @@
+SLIME FORUM - WINDOWS
+1. Installe Python 3 si necessaire.
+2. Double-clique sur SLIME_FORUM_WINDOWS.bat.

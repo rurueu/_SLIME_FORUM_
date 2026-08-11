@@ -1,0 +1,7 @@
+CORRECTIONS DE CETTE VERSION
+
+1. L'erreur Python Linux ligne 34 a été corrigée.
+2. Les clients Windows, Linux et macOS ont été vérifiés avec le compilateur Python.
+3. L'interface plein écran/centrée est conservée.
+4. SERVER_RENDER_PERSISTANT contient le serveur à utiliser avec une base PostgreSQL persistante.
+5. Le serveur actuel n'est pas remplacé automatiquement : tu choisis quand mettre ces fichiers sur GitHub/Render.
