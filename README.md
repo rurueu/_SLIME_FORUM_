@@ -1,4 +1,4 @@
-![Screenshot] (kovra/téléchargements/Capture d’écran du 2026-08-11 22-02-34.png )
+[Screenshot] (kovra/téléchargements/Capture d’écran du 2026-08-11 22-02-34.png )
 # SLIME FORUM
 🟢 SLIME FORUM
 
