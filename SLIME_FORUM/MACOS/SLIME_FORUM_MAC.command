@@ -1,6 +1,12 @@
 #!/bin/bash
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$SCRIPT_DIR" || exit 1
+
+# Essaie de passer Terminal en plein écran.
+osascript -e 'tell application "Terminal" to activate' >/dev/null 2>&1 || true
+sleep 0.3
+osascript -e 'tell application "System Events" to keystroke "f" using {{control down, command down}}' >/dev/null 2>&1 || true
+sleep 0.8
 osascript -e 'tell application "Terminal" to set bounds of front window to {0, 0, 2000, 1200}' >/dev/null 2>&1 || true
 sleep 0.6
 
