@@ -1,0 +1,12 @@
+SLIME FORUM - VERSION CORRIGEE
+
+IMPORTANT :
+1. Decompresse COMPLETEMENT le ZIP avant de lancer le forum.
+2. Windows : ouvre WINDOWS puis double-clique SLIME_FORUM_WINDOWS.bat
+3. Linux : chmod +x LINUX/SLIME_FORUM_LINUX.sh puis lance-le
+4. macOS : chmod +x MACOS/SLIME_FORUM_MAC.command puis lance-le
+
+Serveur commun :
+
+Le lanceur Windows garde maintenant la fenetre ouverte en cas d'erreur
+et cree automatiquement un environnement Python local (.venv).

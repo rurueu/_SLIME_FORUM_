@@ -1,0 +1,4 @@
+SLIME FORUM - macOS
+Dans Terminal, dans ce dossier :
+chmod +x SLIME_FORUM_MAC.command
+./SLIME_FORUM_MAC.command
