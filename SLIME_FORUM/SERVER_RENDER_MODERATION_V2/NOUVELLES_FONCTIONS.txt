@@ -1,0 +1,24 @@
+SLIME FORUM — PACK COMPLET
+
+Ajouts serveur :
+- Réactions +1 / coeur / rire / pouce
+- Recherche
+- Salons + salon officiel
+- Messages épinglés
+- Utilisateurs actifs anonymisés (compteur uniquement)
+- Statistiques
+- Liste des bans et débannissement
+- Journal de modération
+- Corbeille et restauration
+- Modification de ses propres messages
+- Paramètres Créateur
+- Mode maintenance
+- Réglage du délai de rafraîchissement
+- Message d'accueil configurable
+
+IMPORTANT PERSISTANCE :
+Sur Render gratuit, SQLite local peut être effacé au redémarrage/redéploiement.
+Pour conserver durablement messages, bans, paramètres et logs, configure DATABASE_URL
+vers une base PostgreSQL persistante.
+
+Le serveur et le client doivent être mis à jour ensemble.

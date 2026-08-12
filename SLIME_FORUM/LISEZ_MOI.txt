@@ -1,0 +1,22 @@
+SLIME FORUM - VERSION AVEC REPONSES
+
+Windows :
+ouvre WINDOWS puis SLIME_FORUM_WINDOWS.bat
+
+Linux :
+ouvre LINUX puis SLIME_FORUM_LINUX.sh
+
+macOS :
+ouvre MACOS puis SLIME_FORUM_MAC.command
+
+MENU :
+01 = Voir les publications et leurs réponses
+02 = Publier
+03 = Répondre à une publication en entrant son numéro #
+04 = Quitter
+
+IMPORTANT :
+Pour activer les réponses sur le serveur en ligne, mets les fichiers du dossier
+SERVER_RENDER sur ton dépôt GitHub utilisé par Render. Render redéploiera le serveur.
+
+Mot de passe du code source protégé : [CODE CREATEUR NON STOCKE EN CLAIR]
