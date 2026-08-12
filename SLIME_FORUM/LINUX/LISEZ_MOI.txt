@@ -1,4 +1,0 @@
-SLIME FORUM - LINUX
-Dans ce dossier :
-chmod +x SLIME_FORUM_LINUX.sh
-./SLIME_FORUM_LINUX.sh
